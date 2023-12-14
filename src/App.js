@@ -8,7 +8,7 @@ function App() {
     <section className="showcase">
       <div className="background-image"></div>
       <div className="card">
-        <img src={background} alt="hero patter" className="hero" />
+        <img src={background} alt="hero pattern" className="hero" />
         <h1>Order Summary</h1>
         <p>You can now listen to millions of songs,audio books, and podcasts on 
           any device anywhere you like!
@@ -25,7 +25,7 @@ function App() {
         </div>
         <div className="buttons">
           <button className="btn btn-primary">Proceed to payment</button>
-          <button className="btn btn-secondary">Cancek Order</button>
+          <button className="btn btn-secondary">Cancel Order</button>
         </div>
          </div>
          <div class="attribution">
